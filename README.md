@@ -1,8 +1,4 @@
-# <p align=center> :Codebook Prior-Guided Hybrid Attention Dehazing Network</p>
-
-![Python 3.8](https://img.shields.io/badge/python-3.8-g) ![pytorch 1.12.0](https://img.shields.io/badge/pytorch-1.12.0-blue.svg)
-
-This is the official PyTorch codes for the paper.  
+# <p align=center> Codebook Prior-Guided Hybrid Attention Dehazing Network</p>
 
 ## Dependencies and Installation
 - Ubuntu >= 18.04
@@ -11,6 +7,7 @@ This is the official PyTorch codes for the paper.
 
 # create new anaconda env
 conda create -n HADehzeNet python=3.8
+
 conda activate HADehzeNet
 
 # install python dependencies
