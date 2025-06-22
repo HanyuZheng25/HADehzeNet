@@ -14,5 +14,5 @@ conda activate HADehzeNet
 pip install -r requirements.txt
 
 ### Train your model
-CUDA_VISIBLE_DEVICES=X python basicsr/train.py -opt options/Train_your_model
+CUDA_VISIBLE_DEVICES=X python basicsr/train.py -opt options/Train_your_model.yml
 
