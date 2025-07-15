@@ -1,6 +1,6 @@
 # <p align=center> Codebook Prior-Guided Hybrid Attention Dehazing Network</p>
 
-## Dependencies and Installation
+### Dependencies and Installation
 - Ubuntu >= 18.04
 - CUDA >= 11.0
 - Other required packages in `requirements.txt`
