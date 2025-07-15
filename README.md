@@ -5,12 +5,12 @@
 - CUDA >= 11.0
 - Other required packages in `requirements.txt`
 
-# create new anaconda env
+### create new anaconda env
 conda create -n HADehzeNet python=3.8
 
 conda activate HADehzeNet
 
-# install python dependencies
+### install python dependencies
 pip install -r requirements.txt
 
 ### Train your model
