@@ -16,3 +16,8 @@ pip install -r requirements.txt
 ### Train your model
 CUDA_VISIBLE_DEVICES=X python basicsr/train.py -opt options/Train_your_model.yml
 
+### Acknowledgements
+
+This repo is based on [RIDCP](https://github.com/RQ-Wu/RIDCP_dehazing).
+
+Thanks original authors for their work!
